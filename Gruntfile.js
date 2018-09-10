@@ -11,7 +11,7 @@ module.exports = function(grunt) {
   var version = pkg.version;
   var header =
     '/*!\n' +
-    ' * PEP v' + version + ' | https://github.com/jquery/PEP\n' +
+    ' * PEP v' + version + ' | https://github.com/BendingBender/PEP\n' +
     ' * Copyright jQuery Foundation and other contributors | http://jquery.org/license\n' +
     ' */\n';
 
